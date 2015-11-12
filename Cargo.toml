@@ -1,0 +1,4 @@
+[package]
+name = "pkgconfig"
+version = "0.0.0"
+authors = [ "William A. Kennington III" ]
